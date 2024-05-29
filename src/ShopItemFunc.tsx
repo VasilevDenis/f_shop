@@ -1,4 +1,3 @@
-import React from 'react';
 import type { Item } from "./item"; // Import the Item type
 
 interface Props {
