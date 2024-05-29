@@ -1,7 +1,7 @@
-import type { Item } from "./item"; // Import the Item type
+import type { Item } from "./item"; 
 
 interface Props {
-    item: Item; // Define the prop type
+    item: Item;
 }
 
 const ShopItemFunc: React.FC<Props> = ({ item }) => {
