@@ -1,4 +1,4 @@
-name: Dom_game
+name: F_shop
 
 on: [push, pull_request]
 
