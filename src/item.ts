@@ -18,3 +18,4 @@ const item: Item = {
 }
 
 export default item;
+export type { Item };
